@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input#search{
+    display: block;
+    width: 200px;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+margin: 50px auto;
+padding-left: 20px;
+}
+div#data{
+    width: 350px;
+background-color: aqua;
+border-radius: 25px;
+line-height: 30px;
+margin: 100px auto;
+padding: 25px;
+}
+span{
+    background-color: yellow;
+    font-weight: 900;
+
+}
+button{
+    margin: 60px auto;
+    display: block;
+    padding: 10px 30px;
+}
